@@ -4,5 +4,8 @@
 
 
 TEAM_NAME = "Конвейер"
+MOTTO = "Всё как обычно"
+SUBTITLE = 'the best team'
+COMMENT = 'no comments'
 MOTTO = "Всё как обычно, да"
 # Hello
